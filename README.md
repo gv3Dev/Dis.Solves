@@ -27,7 +27,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>While the user is manually taking a test, quiz, cumulative exam, etc.., it will automatically find the answer for the question on brainly, answer it, and move on to the next question if an answer is found. If not it will wait for the user to move on to the next question.  🔴🟢</li><br>
 <li>Answers questions correctly 90% of the time. 🎯</li><br>
 <li>Make sure to check for updates daily, either here on github or on the site <a href="https://edgenuity-plus.web.app/">EdgePlus➕</a></li><br>
-<li>Sharing purchase keys might lead to technical difficulties on both parties ends. Please refrain from doing so. 🛑</li><br>
+<li>Sharing purchase keys might lead to technical difficulties on both persons ends. Please refrain from doing so. 🛑</li><br>
 <li>This is still a work in progress, it's good and functional but it may still need some work. If you have any issues please contact me asap. 🙏</li><br>
 <li>Once again, You can not hold me liable for your actions. This tool is for educational purposes only. You have been warned ‼ ⚠ </li><br>
 </ul>
