@@ -1,5 +1,5 @@
 # EdgyBot - Edgenuity Bot 🤖
-<h3>Website is currently down, will be back up tomorrow. 😣</h3>
+<h3>Website is currently up and running ✔</h3>
 
 <h3>Brief Intro: </h3>
 I have tested this script on 10+ accounts. Each of them had around 2-4 classes that EdgyBot completed succesfully. They were all satisfied with the results. The more people I tested it on the better I was able to make it. I added extra features such as but not limited to, a fail-safe AFK sort of system in order to allow EdgyBot to continue doing work no matter what issues it faces. 😊
