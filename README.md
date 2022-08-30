@@ -9,7 +9,7 @@ EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered 
 A purchase key will be given to the user upon purchase of the script. The script costs $25 for one class and $5 dollars for every additional class. Payment can be sent via: Cashapp, Venmo, and Apple Pay/Apple Cash. 🔑
 <br><br>
 <h3>Disclaimer: </h3>
-<i><b>You can not hold me liable for your actions. This tool is for educational purposes only. Use of this tool can lead to disciplinary action due to academic dishonesty. You have been warned ‼ ⚠</b></i>
+<i><b>If you purchase this tool you take full responsibility. You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine. Use of this tool can lead to disciplinary action due to academic dishonesty. You have been warned ‼ ⚠</b></i>
 <br><br>
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
