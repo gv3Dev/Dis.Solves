@@ -8,7 +8,7 @@ EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered 
 A purchase key will be given to the user upon purchase of the script. The script costs $25 for one class and $5 dollars for every additional class. Payment can be sent via: Cashapp, Venmo, and Apple Pay/Apple Cash. 🔑
 <br><br>
 <h3>Disclaimer: </h3>
-<i><b>If you purchase this tool you take full responsibility. You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine. Use of this tool can lead to disciplinary action due to academic dishonesty. You have been warned ‼ ⚠</b></i>
+<i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine. Use of this tool can lead to disciplinary action due to academic dishonesty. You have been warned ‼ ⚠</b></i>
 <br><br>
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
@@ -39,14 +39,24 @@ A purchase key will be given to the user upon purchase of the script. The script
 </ol>
 <h3>Common Problems: </h3>
 <ul>
-<li>You must allow popups if you want EdgyBot to automatically open brainly answers and return back to the page to auto answer (if an answer was found). ⚙</i><br>
+<li>You must allow popups if you want EdgyBot to automatically open brainly answers and return back to the page to auto answer (if an answer was found). </li><br>
 <li>If the bot freezes on a question, a simple refresh of the page fixes it immediatly. 🔄</li><br>
 <li>This script has only been tested on chrome, so for the time being, should only be used on chrome. 🤷‍♂️</li><br>
 <li>The script won't work on a school computer ( unless TamperMonkey installation is allowed on chrome web store ). 👎</li><br>
 </ul>
 
+<h3>Tips & Tricks: </h3>
+<ul>
+<li>To take tests that the bot has skipped, turn off the script via tampermonkey, open the test/quiz and turn the bot back on. It will continue assiting u 👌</li><br>
+<li>You can leave it on at night and it will have a lot of work done by the time you wake up 😴</li><br>
+<li>If you have any issues that you would like resolved quickly, it's recommended you contact me via instagram. 🙂</li><br>
+</ul>
 
-
+<h3>Bug Reports: </h3>
+<ul>
+<li>Bug found by treloots: Issue with purchase verification due to (') being in the user's name. [FIXED] 🕷</li><br>
+<li>Bug found by treloots: Static url issue which prevented the bot from opening classes on it's own and resulted in edgenuity throwing (503) errors, essentialy taking away the bots AFK capabilities making it useless. [FIXED] 🕷</li><br>
+</ul>
 
 <h3>Please consider:</h3>
 <ul>
