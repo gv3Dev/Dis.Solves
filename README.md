@@ -42,7 +42,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>You must allow popups if you want EdgyBot to automatically open brainly answers and return back to the page to auto answer (if an answer was found). </li><br>
 <li>If the bot freezes on a question, a simple refresh of the page fixes it immediatly. 🔄</li><br>
 <li>This script has only been tested on chrome, so for the time being, should only be used on chrome. 🤷‍♂️</li><br>
-<li>The script won't work on a school computer (unless TamperMonkey installation is allowed on chrome web store). 👎</li><br>
+<li>The script won't work on a school computer  (unless TamperMonkey installation is allowed on chrome web store). 👎</li><br>
 </ul>
 
 <h3>Tips & Tricks: </h3>
