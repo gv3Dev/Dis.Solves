@@ -20,6 +20,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
+<li>EdgyBot will now ask you to pick a class for it to work on. When you want to switch a class click <b>CTRL ALT C</b> on your keyboard. 😉</li><br>
 <li>The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free 🔐</li><br>
 <li>It goes back to the course-line and continues doing non test tasks on it's own. 🧠</li><br>
 <li>The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. 💁‍♂️</li><br>
