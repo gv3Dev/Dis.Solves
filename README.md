@@ -59,6 +59,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>Bug found by treloots: Static url issue which prevented the bot from opening classes on it's own and resulted in edgenuity throwing (503) errors, essentialy taking away the bots AFK capabilities making it useless. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: AFK task selection bug that would stop EdgyBot. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Class Picking feature implemented in v1.5 caused AFK to stop functioning. [FIXED] 🕷</li><br>
+<li>Bug found by GSRHackZ: Auto Update feature implemented in v1.7 caused AFK to stop functioning. [FIXED] 🕷</li><br>
 </ul>
 
 <h3>Please consider:</h3>
