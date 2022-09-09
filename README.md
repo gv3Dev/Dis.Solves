@@ -60,6 +60,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>Bug found by GSRHackZ: AFK task selection bug that would stop EdgyBot. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Class Picking feature implemented in v1.5 caused AFK to stop functioning. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Auto Update feature implemented in v1.7 caused AFK to stop functioning. [FIXED] 🕷</li><br>
+<li>Bug found by Ahmad: - Bug affecting some users due to different placement of window.frames[index].API & FrameChain() leading to EdgyBot comepletely malfunctioning [FIXED] 🕷</li><br>
 </ul>
 
 <h3>Please consider:</h3>
