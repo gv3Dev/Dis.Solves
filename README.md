@@ -62,6 +62,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>Bug found by GSRHackZ: Auto Update feature implemented in v1.7 caused AFK to stop functioning. [FIXED] 🕷</li><br>
 <li>Bug found by Ahmad: Bug affecting some users due to different placement of window.frames[index].API & FrameChain() leading to EdgyBot completely malfunctioning [FIXED] 🕷</li><br>
 <li>Bug found by Ricky: Bug affecting vocabulary assignments leading the bot to lose AFK & traps it in a location.reload() loop [FIXED] 🕷</li><br>
+<li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. The assignments here are the graded assignments with multiple choices questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until I have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
 </ul>
 
 <h3>Please consider:</h3>
