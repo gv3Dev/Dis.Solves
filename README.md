@@ -19,6 +19,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
+<li>When EdgyBot is doing work, it might look like it's going crazy but you have to trust it. Everything it does, it does for a reason. <b>Everything is Calculated</b> 🧠😵</li><br>
 <li><b>Version 1.7 & Up</b> now automatically check for updates on the <a href="https://edgenuity-plus.web.app/">EdgePlus+</a> website, so users always have the latest personalized EdgyBot. 🤩 </li><br>
 <li>EdgyBot will now ask you to pick a class for it to work on. When you want to switch a class click <b>CTRL ALT C</b> on your keyboard. 😉</li><br>
 <li>The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free 🔐</li><br>
