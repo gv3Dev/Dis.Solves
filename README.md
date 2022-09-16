@@ -3,6 +3,8 @@
 
 <h3>It's recommended that you don't buy the script until I remove the above message tomorrow. ⚠</h3>
 
+<h3>EDGENUITY HAS UPDATED THEIR SITE. PURCHASE VERIFICATION WON'T WORK AND WILL NOW NEED TO BE CHECKED ON SERVER SIDE. PURCHASE VERFICATION NEEDS TO BE UPDATED.. dO NOT INSTALL UNTIL THEN, DO NOT SEND ANY MONEY.</h3>
+
 <br>
 <h3>Description:</h3>
 EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered by Edgenuity. It does all non test/quizzes on course-line first (By itself) and leaves the rest for the user. For tests, pre-tests, quizzes, cumulative-exams, etc., it auto searches the questions on Brainly.com. If an answer is found it will automatically answer the question and move on to the next. The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free. The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
