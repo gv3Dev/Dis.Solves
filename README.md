@@ -1,5 +1,8 @@
 # EdgyBot - Edgenuity Bot 🤖
 <br>
+<h3>Important Note from us at EdgePlus+: </h3>
+<p>Edgenuity updated their dashboard on 9/15/22 which lead to a huge crash on everyone's end. It was fixed asap (within half an hour) and everyone of our affected users was assited and brought back on track. On 9/15/22, the brainly auto search feature for quizzes and tests was removed due to it being buggy and sorta useless. A new version of that feature was re-added to the script in version 1.9.7 on 9/16/22. The script is perfect as of now (all current bugs reported have been fixed). We are sorry you guys had to go through that stressful ordeal, but due to the good communication between users and script authors, we made it 💪. We highly encourage bug reports and feature requests so please send them to either the sedgenuity email or my insta down below. Speaking of <b>New Features</b>, Are you guys ready for the upcoming v2.0 of the script?? 🤩</p>
+<br>
 <h3>Description:</h3>
 EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered by Edgenuity. It does all non test/quizzes on course-line first (By itself) and leaves the rest for the user. For tests, pre-tests, quizzes, cumulative-exams, etc., it auto searches the questions on Brainly.com. If an answer is found it will automatically answer the question and move on to the next. The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free. The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
 <br><br>
@@ -19,6 +22,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
+<li>Quizzes, Tests, and any other heavily graded assignments will never be fully automated. We do not want our bot to mess up your grades in case it has a bug/issue, so for those sort of assignments, EdgyBot <b>only assists</b> but never does the work for you automatically. 😵</li><br>
 <li>When EdgyBot is doing work, it might look like it's going crazy but you have to trust it. Everything it does, it does for a reason. <b>Everything is Calculated</b> 🧠😵</li><br>
 <li><b>Version 1.7 & Up</b> now automatically check for updates on the <a href="https://edgenuity-plus.web.app/">EdgePlus+</a> website, so users always have the latest personalized EdgyBot. 🤩 </li><br>
 <li>EdgyBot will now ask you to pick a class for it to work on. When you want to switch a class click <b>CTRL ALT C</b> on your keyboard. 😉</li><br>
