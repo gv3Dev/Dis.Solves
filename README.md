@@ -2,6 +2,9 @@
 <br>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
+<h3>Referral Program ⭐:</h3>
+<p>You can now get <b>$5 - $10</b> by getting people to purchase this script and leave a <b>star</b>. If the purchase is above <b>$40</b>, you get <b>$10</b>, and if it's below, you get <b>$5</b>. This benefits both the authors of the script (EdgePlus+) and you, the customers. You can get <b>paid</b> just by spreading word about this script. 💲💲<br><br><i>This is only for verified customers who have left a star on the script themselves. 🌟</i></p>
+<br>
 <h3>Important Note from us at EdgePlus+: </h3>
 <p>Edgenuity updated their dashboard on 9/15/22 which lead to a huge crash on everyone's end. It was fixed asap (within half an hour) and everyone of our affected users was assited and brought back on track. On 9/15/22, the brainly auto search feature for quizzes and tests was removed due to it being buggy and sorta useless. A new version of that feature was re-added to the script in version 1.9.7 on 9/16/22. The script is perfect as of now (all current bugs reported have been fixed). We are sorry you guys had to go through that stressful ordeal, but due to the good communication between users and script authors, we made it 💪. We highly encourage bug reports and feature requests so please send them to either the sedgenuity email or my insta down below. Speaking of <b>New Features</b>, Are you guys ready for the upcoming v2.0 of the script?? 🤩</p>
 <br>
