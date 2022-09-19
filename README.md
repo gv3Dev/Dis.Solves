@@ -15,7 +15,8 @@ EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered 
 A purchase key will be given to the user upon purchase of the script. The script costs $25 for one class and $5 dollars for every additional class. Payment can only be sent via <b>Cashapp, Venmo, and Apple Pay/Apple Cash</b> for <b>security</b> reasons on both the users's end & mine. 🔑
 <br><br>
 <h3>Disclaimer:</h3>
-<i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine. Use of this tool can lead to disciplinary action due to academic dishonesty. You have been warned ‼ ⚠</b></i>
+<b>This is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
+<i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine that makes me cash on the side. An experimental/prototype business of some sort. Academic Integrity is very important & it shows a lot about who you are as a person. Use of this tool can lead to disciplinary action due to academic dishonesty. Please do not purchase or use this tool. Some things taught in online classes are beneficial to you in the real world. You would miss out on things your other (honest) peers are learning. Also, any school credits recieved via the use of this tool may be <b>invalidated</b> if the user is caught during the use of this tool or later on in his/her academic career. Academic dishonesty is a very serious offense (especially in leveles of higher education), and we at EdgePlus+ discourage it. By purchasing & using this tool, <b>you acknowledge</b> the consequences and <b>negative</b> effects of using this tool. You have been warned ‼ ⚠</b></i>
 <br><br><br>
 <h3>Steps for use:</h3>
 <ol style="margin-bottom:10px;">
@@ -71,9 +72,10 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>Bug found by GSRHackZ: AFK task selection bug that would stop EdgyBot. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Class Picking feature implemented in v1.5 caused AFK to stop functioning. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Auto Update feature implemented in v1.7 caused AFK to stop functioning. [FIXED] 🕷</li><br>
-<li>Bug found by Ahmad: Bug affecting some users due to different placement of window.frames[index].API & FrameChain() leading to EdgyBot completely malfunctioning [FIXED] 🕷</li><br>
+<li>Bug found by Ahmad: Bug affecting some users due to different placement of window.frames[index].AP
+& FrameChain() leading to EdgyBot completely malfunctioning [FIXED] 🕷</li><br>
 <li>Bug found by Ricky: Bug affecting vocabulary assignments leading the bot to lose AFK & traps it in a location.reload() loop [FIXED] 🕷</li><br>
-<li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. By assignments, I mean the ones that are the graded assignments with multiple choice questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until I have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
+<li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. By assignments, We mean the ones that are the graded assignments with multiple choice questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until We have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
 <li>Bug found by Ahmad & GSRHackZ: Bug affecting video watcher, leading to video loop causing EdgyBot to lose AFK until refresh. [FIXED] 🕷</li><br>
 </ul>
 
