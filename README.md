@@ -17,7 +17,9 @@ A purchase key will be given to the user upon purchase of the script. The script
 <h3>Disclaimer:</h3>
 <b>This is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
 <i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine that makes me cash on the side. An experimental/prototype business of some sort. Academic Integrity is very important & it shows a lot about who you are as a person. Use of this tool can lead to disciplinary action due to academic dishonesty. Please do not purchase or use this tool. Some things taught in online classes are beneficial to you in the real world. You would miss out on things your other (honest) peers are learning. Also, any school credits recieved via the use of this tool may be <b>invalidated</b> if the user is caught during the use of this tool or later on in his/her academic career. Academic dishonesty is a very serious offense (especially in levels of higher education), and we at EdgePlus+ discourage it. By purchasing & using this tool, <b>you acknowledge</b> the consequences and <b>negative</b> effects of using this tool. You have been warned ‼ ⚠</b></i>
-<br><br><br>
+<br><br>
+<h3>For instructions on how to get a purchase key and activate your EdgyBot, visit <a href="https://github.com/GSRHackZ/EdgyBot/blob/main/Instructions.md">Visual Instructions 😊</a></h3>
+<br>
 <h3>Steps for use:</h3>
 <ol style="margin-bottom:10px;">
 <li>Install this script using tampermonkey.</li><br>
