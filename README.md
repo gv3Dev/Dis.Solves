@@ -30,7 +30,9 @@ A purchase key will be given to the user upon purchase of the script. The script
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
-<li>Clicking <b>CTRL ALT R</b> now resets your EdgyBot by removing the purchase key connected to the account along with saved classes. This is to fix any issues being faced on your end.  🔴</li><br>
+<li>Clicking <b>CTRL ALT B</b> on your computer keyboard let's you remove or add the classic EdgyBot wallpaper. 🌃</li><br>
+<li>Clicking <b>CTRL ALT R</b> on your computer keyboard now resets your EdgyBot by removing the purchase key connected to the account along with saved classes and other settings. This is to fix any issues being faced on your end. If this doesn't fix the issue, contact sedgenuity@gmail.com.  🔴</li><br>
+<li>Clicking <b>CTRL ALT C</b> on your computer keyboard let's you switch the class you set EdgyBot to do. 🔃</li><br>
 <li>Quizzes, Tests, and any other heavily graded assignments will never be fully automated. We do not want our bot to mess up your grades in case it has a bug/issue, so for those sort of assignments, EdgyBot <b>only assists</b> but never does the work for you automatically, neither does it open them by itself. It requires a turn off of the bot via tampermonkey, opening the assignemnt, and turning back on of the bot in order for assistance. Your heavily graded assignments are completely safe. These assignments won't be automated in future updates unless we can guarantee a 90%+ on these assignments through automation. 🔒</li><br>
 <li>When EdgyBot is doing work, it might look like it's going crazy but you have to trust it. Everything it does, it does for a reason. <b>Everything is Calculated</b> 🧠😵</li><br>
 <li><b>Version 1.7 & Up</b> now automatically check for updates on the <a href="https://edgenuity-plus.web.app/">EdgePlus+</a> website, so users always have the latest personalized EdgyBot. 🤩 </li><br>
