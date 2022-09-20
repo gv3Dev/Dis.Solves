@@ -69,7 +69,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>If you have any issues that you would like resolved quickly, it's recommended you contact me via instagram. 🙂</li><br>
 </ul>
 
-<h3>Bug Reports & Statuses: (9)</h3>
+<h3>Bug Reports & Statuses: (10)</h3>
 <ul>
 <li>Bug found by treloots: Issue with purchase verification due to symbols being in the user's name. [FIXED] 🕷</li><br>
 <li>Bug found by treloots: Static url issue which prevented the bot from opening classes on it's own and resulted in edgenuity throwing (503) errors, essentialy taking away the bots AFK capabilities making it useless. [FIXED] 🕷</li><br>
