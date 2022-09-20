@@ -79,6 +79,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 <li>Bug found by Ricky: Bug affecting vocabulary assignments leading the bot to lose AFK & traps it in a location.reload() loop [FIXED] 🕷</li><br>
 <li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. By assignments, We mean the ones that are the graded assignments with multiple choice questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until We have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
 <li>Bug found by Ahmad & GSRHackZ: Bug affecting video watcher, leading to video loop causing EdgyBot to lose AFK until refresh. [FIXED] 🕷</li><br>
+<li>Bug found by GSRHackZ: Vocabulary assignment auto loop after completion bug which would make EdgyBot lose AFK until user manually exits [FIXED] 🕷</li><br>
 </ul>
 
 <h3>Please consider:</h3>
