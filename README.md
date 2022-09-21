@@ -30,6 +30,7 @@ A purchase key will be given to the user upon purchase of the script. The script
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
+<li>When you leave the EdgyBot to do work by itself, you need to <b>stay on the same tab.</b> The bot will not work if you are on another tab. 🔴</li><br>
 <li>Clicking <b>CTRL ALT B</b> on your computer keyboard let's you remove or add the classic EdgyBot wallpaper. 🌃</li><br>
 <li>Clicking <b>CTRL ALT R</b> on your computer keyboard now resets your EdgyBot by removing the purchase key connected to the account along with saved classes and other settings. This is to fix any issues being faced on your end. If this doesn't fix the issue, contact sedgenuity@gmail.com.  🔴</li><br>
 <li>Clicking <b>CTRL ALT C</b> on your computer keyboard let's you switch the class you set EdgyBot to do. 🔃</li><br>
