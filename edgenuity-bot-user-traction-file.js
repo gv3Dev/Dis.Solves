@@ -27,6 +27,7 @@ edgenuity homework helper/video watcher and skipper/edgenuity assignment unlocke
 edgenuity bot/edgybot/edgenuity.afk.tool/edgenuity mastermind/edgenuity automation/does your work while you sleep
 edgenuity finish fast/edgenuity pathblazer gone bad/edgenuity script hack tool userscript/ edgenuity answers
 brainly unlocker/brainly scraper/brainly answers/answer search/auto answer search/auto work/does work for you/finish edgenuity fast
+edgenuity cheat/cheat tool/hack tool/homework bot/homework answers
 get classes done fast. */
 
 
