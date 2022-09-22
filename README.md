@@ -1,5 +1,7 @@
 # EdgyBot - Edgenuity Bot 🤖
 <br>
+Note: The name of the repo is weird because we want it so that it can be found by users looking for an edgenuity script no matter what the user searches. 😉
+<br>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
 <h3>Referral Program ⭐:</h3>
