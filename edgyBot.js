@@ -10,10 +10,13 @@
 // @match        *://media.edgenuity.com/media/*
 // @match        *://brainly.com/*
 // @match        https://edgenuity-plus.web.app/*
+// @match        *://github.com/*
+// @require      http://code.jquery.com/jquery-latest.js
+// @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=edgenuity.com
-// @grant GM_setValue
-// @grant GM_getValue
-// @grant GM_deleteValue
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_deleteValue
 // @noframes
 // ==/UserScript==
 
