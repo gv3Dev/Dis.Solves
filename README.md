@@ -1,5 +1,8 @@
 # EdgyBot - Edgenuity Bot 🤖
 <br>
+
+<h4>Assignments are no longer supported by this script. It still works for everything else (warm-ups,vocab,instructions,etc.) but assignments have been removed from the script for issues and bugs. They might be added in a future update, but for the time being have been removed. 😟</h4>
+<br><br>
 Note: The name of the repo is weird because we want it so that it can be found by users looking for an edgenuity script no matter what the user searches. 😉
 <br>
 <h3>Please read everything below before purchase of script 🔻</h3>
