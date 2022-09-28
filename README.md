@@ -1,4 +1,4 @@
-# EdgyBot - Edgenuity Bot 🤖
+# EdgyBot 🤖
 <br>
 
 <h4>Assignments are no longer supported by this script. It still works for everything else (warm-ups,vocab,instructions,etc.) but assignments have been removed from the script for issues and bugs. They might be added in a future update, but for the time being have been removed. 😟</h4>
