@@ -1,3 +1,5 @@
+<h2>These instructions are outdated. we updated our website. The website has instructions on it. 😊</h2><br/>
+
 <h3>Steps for attaining your very own EdgyBot purchase key 🔑</h3>
 
 <p>1. Enter your <b>First Name</b>, the amount of class you want your EdgyBot to do (affects price) & an email for us to contact you about any issues.</p>
