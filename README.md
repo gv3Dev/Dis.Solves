@@ -4,7 +4,7 @@
 <h4>Assignments are no longer supported by this script. It still works for everything else (warm-ups,vocab,instructions,etc.) but assignments have been removed from the script for issues and bugs. They might be added in a future update, but for the time being have been removed. 😟</h4>
 <br><br>
 Note: The name of the repo is weird because we want it so that it can be found by users looking for an edgenuity script no matter what the user searches. 😉
-<br>
+<br><br/>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
 <h3>Referral Program ⭐:</h3>
@@ -14,17 +14,16 @@ Note: The name of the repo is weird because we want it so that it can be found b
 <p>Edgenuity updated their dashboard on 9/15/22 which lead to a huge crash on everyone's end. It was fixed asap (within half an hour) and everyone of our affected users was assited and brought back on track. On 9/15/22, the brainly auto search feature for quizzes and tests was removed due to it being buggy and sorta useless. A new version of that feature was re-added to the script in version 1.9.7 on 9/16/22. The script is perfect as of now (all current bugs reported have been fixed). We are sorry you guys had to go through that stressful ordeal, but due to the good communication between users and script authors, we made it 💪. We highly encourage bug reports and feature requests so please send them to either the sedgenuity email or my insta down below. Speaking of <b>New Features</b>, Are you guys ready for the upcoming v2.0 of the script?? 🤩</p>
 <br>
 <h3>Description:</h3>
-EdgyBot: A partially AFK Edgenuity Bot that works on 99% of assignments offered by Edgenuity. It does all non test/quizzes on course-line first (By itself) and leaves the rest for the user. For tests, pre-tests, quizzes, cumulative-exams, etc., it auto searches the questions on Brainly.com. If an answer is found it will automatically answer the question and move on to the next. The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free. The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
+EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on 99% of assignments offered by Edgenuity. It does all non graded assignments on the user's course-line first (By itself) and leaves the graded work for the user which it unlocks brainly for and does auto brainly searches. The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free, ( You can use this for other things not just Edgenuity ). The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
 <br><br>
 <h3>Payment Info:</h3>
 A purchase key will be given to the user upon purchase of the script. The price is different from person to person beacuse it's based on how many classes the person is ordering an EdgyBot for. Payment can only be sent via <b>Cashapp & Venmo only</b> for <b>security</b> reasons on both the users's end & mine. 🔑
 <br><br>
 <h3>Disclaimer:</h3>
-<b>This is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
+<b>We are not affiliated with Edgenuity & we do not endorse the use of this tool.</b><br/><br/>
+<b>The message below is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
 <i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine that makes me cash on the side. An experimental/prototype business of some sort. Academic Integrity is very important & it shows a lot about who you are as a person. Use of this tool can lead to disciplinary action due to academic dishonesty. Please do not purchase or use this tool. Some things taught in online classes are beneficial to you in the real world. You would miss out on things your other (honest) peers are learning. Also, any school credits recieved via the use of this tool may be <b>invalidated</b> if the user is caught during the use of this tool or later on in his/her academic career. Academic dishonesty is a very serious offense (especially in levels of higher education), and we at EdgePlus+ discourage it. By purchasing & using this tool, <b>you acknowledge</b> the consequences and <b>negative</b> effects of using this tool. You have been warned ‼ ⚠</b></i>
 <br><br>
-<h3>For instructions on how to get a purchase key and activate your EdgyBot, visit <a href="https://github.com/GSRHackZ/EdgyBot/blob/main/Instructions.md">Visual Instructions 😊</a></h3>
-<br>
 <h3>Steps for use:</h3>
 <ol style="margin-bottom:10px;">
 <li>Install this script using tampermonkey.</li><br>
@@ -57,7 +56,7 @@ A purchase key will be given to the user upon purchase of the script. The price 
 </ul>
 <h3>Reasons for script obfuscation: </h3>
 <ol style="margin-bottom:10px;">
-<li>If the script wasn't obfuscated, Edgenuity will easily be able to patch it due to the script utilizing an exploit found within their answer() function. 🙂</li><br>
+<li>If the script wasn't obfuscated, Edgenuity will easily be able to patch it due to the script utilizing an exploit found within their answer() function. <br/><br/><b>Note:</b> They did that and patched our script, sooo we unpatched it 🥳🥳</li><br>
 <li>The script has a built in purchase verification system. If the script wasn't obfuscated people will easily be able to take credit for my work by removing the purchase verification functions and selling it as their own. 🥴</li><br>
 </ol>
 <h3>Common Problems: </h3>
