@@ -1,7 +1,7 @@
 # EdgyBot 🤖
 <br>
 
-<h4>Assignments are no longer supported by this script. It still works for everything else (warm-ups,vocab,instructions,etc.) but assignments have been removed from the script for issues and bugs. They might be added in a future update, but for the time being have been removed. 😟</h4>
+<h4>Do not submit language classes when requesting a purchase key. The script isn't compatible with those classes. ‼</h4>
 <br><br>
 Note: The name of the repo is weird because we want it so that it can be found by users looking for an edgenuity script no matter what the user searches. 😉
 <br><br/>
