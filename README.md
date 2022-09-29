@@ -1,4 +1,4 @@
-# EdgyBot 🤖
+# EdgyBot 🤖 - Unpatched
 <br>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
