@@ -2,7 +2,7 @@
 <br>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
-<h4>‼ Do not submit language classes when requesting a purchase key. The script isn't compatible with those classes. ‼</h4>
+<h4>‼ Do not submit language classes when requesting a purchase key, Edgybot isn't compatible with those classes. ‼</h4>
 <br/>
 <h3>Patch & Unpatch Details</h3>
 <p>This is a major update due to the script getting patched by Edgenuity on 9/27/22 late at night. We released an unpatched version mere hours after we were alerted of the patch. All users were sent an Email / Direct Message / SMS with instructions on how to update to the unpatched version. We started receiving bug reports late at night on 9/27/22 and took down the site so no orders would continue to come through. We were expecting this but didn't think Edgenuity would really go through with it ( given their track record ), so we knew exactly what to fix and had another answer function ready for deployment. 🎉🎉</p>
