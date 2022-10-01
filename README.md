@@ -1,4 +1,4 @@
-# EdgyBot 🤖 - Unpatched
+# EdgyBot 🤖
 
 <h1>We have been forced to take down the script & site for purchase keys by edgenuity. We are deeply sorry for this inconvenience 🙏😟</h1>
 
