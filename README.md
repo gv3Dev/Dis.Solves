@@ -1,6 +1,6 @@
 # EdgyBot 🤖 - Unpatched
 <br/>
-<h3>EdgyBot is back & better than ever. Updates coming in daily 🎉🎉</h3>
+<h3>EdgyBot is back & better than ever. Updates coming in daily<br/><br/>As part of our celebration, all orders are Free as long as you drop a star (⭐) on the script 🎉🎉</h3>
 <br/>
 <h3>Script isn't perfect and has slight bugs. It's always getting new updates so there's that. Think before you purchase 🙏</h3>
 <br/>
