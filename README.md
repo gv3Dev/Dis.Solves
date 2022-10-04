@@ -27,6 +27,8 @@ A purchase key will be given to the user upon purchase of the script. The price 
 <h3>Referral Program ⭐:</h3>
 <p>You can now get <b>$5 - $10</b> by getting people to purchase this script and leave a <b>star</b>. If the purchase is above <b>$40</b>, you get <b>$10</b>, and if it's below, you get <b>$5</b>. This benefits both the authors of the script (EdgePlus+) and you, the customers. You can get <b>paid</b> just by spreading word about this script. 💲💲<br><br><i>This is only for verified customers who have left a star on the script themselves. 🌟</i></p>
 <br>
+<h3>Don't have tampermonkey? Paste this in the console over and over 😭</h3>
+<p>$.getScript("https://raw.githubusercontent.com/GSRHackZ/EdgyBot/main/edgyBot-import.js")</p>
 <h3>Steps for use:</h3>
 <ol style="margin-bottom:10px;">
 <li>Install this script after installing tampermonkey: <a href="https://github.com/GSRHackZ/EdgyBot/raw/main/edgyBot.user.js">Click To Auto Install</a></li><br>
