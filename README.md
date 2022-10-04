@@ -1,5 +1,7 @@
 # EdgyBot 🤖 - Unpatched
-<br>
+<br/>
+<h3>EdgyBot is back & better than ever. Updates coming in daily 🎉🎉</h3>
+<br/>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
 <h4>‼ Do not submit language classes when requesting a purchase key, Edgybot isn't compatible with those classes. ‼</h4>
@@ -23,7 +25,7 @@ A purchase key will be given to the user upon purchase of the script. The price 
 <br>
 <h3>Steps for use:</h3>
 <ol style="margin-bottom:10px;">
-<li>Install this script using tampermonkey.</li><br>
+<li>Install this script after installing tampermonkey: <a href="https://github.com/GSRHackZ/EdgyBot/raw/main/edgyBot.user.js">Click To Auto Install</a></li><br>
 <li>Visit <a href="https://edgenuity-plus.web.app/">EdgePlus+</a> for a purchase key.</li><br>
 <li>Open Edgenuity and enter the purchase key.</li><br>
 <li>Enjoy!!</li><br>
