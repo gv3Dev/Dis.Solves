@@ -2,6 +2,8 @@
 <br/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily 🎉🎉</h3>
 <br/>
+<h3>Make an order for a purchase key here: <a targte="_Blank" href="https://edgybot-gsrhackz.web.app/">EdgePlus+</a></h3>
+<br/>
 <h3>Please read everything below before purchase of script 🔻</h3>
 <br>
 <h4>‼ Do not submit language classes when requesting a purchase key, Edgybot isn't compatible with those classes. ‼</h4>
