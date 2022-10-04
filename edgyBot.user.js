@@ -9,11 +9,12 @@
 // @match        *://auth.edgenuity.com/*
 // @match        *://media.edgenuity.com/media/*
 // @match        *://brainly.com/*
-// @match        https://edgenuity-plus.web.app/*
+// @match        *://edgybot-gsrhackz.web.app/*
+// @match        *://www.bing.com/*
 // @match        *://github.com/*
 // @require      http://code.jquery.com/jquery-latest.js
 // @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=edgenuity.com
+// @icon         https://raw.githubusercontent.com/GSRHackZ/Edgen_Nuke/main/edgeNuke.png
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
