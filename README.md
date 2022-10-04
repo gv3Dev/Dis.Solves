@@ -2,6 +2,8 @@
 <br/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily 🎉🎉</h3>
 <br/>
+<h3>Script isn't perfect and has slight bugs. It's always getting new updates so there's that. Think before you purchase 🙏</h3>
+<br/>
 <h3>Make an order for a purchase key here: <a targte="_Blank" href="https://edgybot-gsrhackz.web.app/">EdgePlus+</a></h3>
 <br/>
 <h3>Please read everything below before purchase of script 🔻</h3>
