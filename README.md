@@ -77,6 +77,7 @@ A purchase key will be given to the user upon purchase of the script. The price 
 <li>To take tests that the bot has skipped, turn off the script via tampermonkey, open the test/quiz and turn the bot back on. It will continue assiting u 👌</li><br>
 <li>You can leave it on at night and it will have a lot of work done by the time you wake up 😴</li><br>
 <li>If you have any issues that you would like resolved quickly, it's recommended you contact me via instagram. 🙂</li><br>
+<li>If you want to do something else while the bot is running, open a new window not a new tab. 👍</li><br>
 </ul>
 
 <h3>Bug Reports & Statuses: (10)</h3>
