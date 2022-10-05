@@ -7,9 +7,10 @@
 // @match        *://student.edgenuity.com/*
 // @match        *://*.core.learn.edgenuity.com/*
 // @match        *://auth.edgenuity.com/*
-// @match        *://media.edgenuity.com/media/*
+// @match        *://media.edgenuity.com/*
 // @match        *://brainly.com/*
 // @match        *://edgybot-gsrhackz.web.app/*
+// @match        *://emissary.edgenuity.com/*
 // @match        *://www.bing.com/*
 // @match        *://github.com/*
 // @require      http://code.jquery.com/jquery-latest.js
