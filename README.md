@@ -1,4 +1,4 @@
-# EdgyBot 🤖 - Unpatched
+# EdgyBot 🤖 - Up & Running
 <br/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily<br/><br/>As part of our celebration, we have a 20% off discount 🎉🎉</h3>
 <br/>
