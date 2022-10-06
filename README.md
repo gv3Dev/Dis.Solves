@@ -1,6 +1,6 @@
 # EdgyBot 🤖 - Up & Running
 <br/>
-<h3>EdgyBot is back & better than ever. Updates coming in daily<br/><br/><br/>THE SCRIPT IS FREE AS LONG AS YOU LEAVE A STAR (⭐) 🎉🎉</h3>
+<h3>EdgyBot is back & better than ever. Updates coming in daily<br/><br/><br/>THE SCRIPT IS FREE AS LONG AS YOU LEAVE A STAR (⭐)<br/><br/>Leave an order and for the payment method click the star option 🎉🎉</h3>
 <br/>
 <h3>Make an order for a purchase key here: <a targte="_Blank" href="https://edgybot-gsrhackz.web.app/">EdgePlus+</a></h3>
 <h3>Click this to install script (only works if tampermonkey is installed) <a href="https://github.com/GSRHackZ/EdgyBot/raw/main/edgyBot.user.js">Click To Auto Install</a></h3>
