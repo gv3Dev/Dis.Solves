@@ -27,15 +27,12 @@
 <h3>Description:</h3>
 EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on 99% of assignments offered by Edgenuity. It does all non graded assignments on the user's course-line first (By itself) and leaves the graded work for the user which it unlocks brainly for and does auto brainly searches. The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free, ( You can use this for other things not just Edgenuity ). The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
 <br><br>
-<h3>Payment Info:</h3>
-A purchase key will be given to the user upon purchase of the script. The price is different from person to person beacuse it's based on how many classes the person is ordering an EdgyBot for. Payment can only be sent via <b>Cashapp & Venmo only</b> for <b>security</b> reasons on both the users's end & mine. 🔑
-<br><br>
 <h3>Disclaimer:</h3>
 <b>We are not affiliated with Edgenuity & we do not endorse the use of this tool.</b><br/><br/>
 <b>The message below is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
 <i><b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine that makes me cash on the side. An experimental/prototype business of some sort. Academic Integrity is very important & it shows a lot about who you are as a person. Use of this tool can lead to disciplinary action due to academic dishonesty. Please do not purchase or use this tool. Some things taught in online classes are beneficial to you in the real world. You would miss out on things your other (honest) peers are learning. Also, any school credits recieved via the use of this tool may be <b>invalidated</b> if the user is caught during the use of this tool or later on in his/her academic career. Academic dishonesty is a very serious offense (especially in levels of higher education), and we at EdgePlus+ discourage it. By purchasing & using this tool, <b>you acknowledge</b> the consequences and <b>negative</b> effects of using this tool. You have been warned ‼ ⚠</b></i>
 <br><br>
-<h3>Referral Program (only active if script isn't free)⭐:</h3>
+<h3>Referral Program (only active if the script isn't free)⭐: [ INACTIVE RN ]</h3>
 <p>You can now get <b>$5 - $10</b> by getting people to purchase this script and leave a <b>star</b>. If the purchase is above <b>$40</b>, you get <b>$10</b>, and if it's below, you get <b>$5</b>. This benefits both the authors of the script (EdgePlus+) and you, the customers. You can get <b>paid</b> just by spreading word about this script. 💲💲<br><br><i>This is only for verified customers who have left a star on the script themselves. 🌟</i></p>
 <br>
 <h3>Steps for use:</h3>
