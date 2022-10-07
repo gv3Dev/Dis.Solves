@@ -1,4 +1,4 @@
-# EdgyBot 🤖 - Up & Running
+# EdgyBot 🤖 - ( Edgen_Nuke ⚛ )
 <br/>
 <hr/>
 <h3>Your key isn't working (invalid or expired)? Send another order & follow the steps below:</h3>
