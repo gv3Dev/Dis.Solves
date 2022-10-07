@@ -1,5 +1,6 @@
 # EdgyBot 🤖 - Up & Running
 <br/>
+<hr/>
 <h3>Your key isn't working (invalid or expired)? Send another order & follow the steps below:</h3>
 <br/>
 <ul>
@@ -7,6 +8,7 @@
 <li>Make sure to copy & paste the exact class names as they appear on your edgenuity dashboard. 📝</li><br/>
 <li>Make sure to enter your full name. This info isn't saved & is only used for the creation of a user specific EdgyBot user panel and key. 🔑</li><br/>
 </ul>
+<hr/>
 <br/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily<br/><br/><br/>THE SCRIPT IS FREE AS LONG AS YOU LEAVE A STAR (⭐)<br/><br/>Leave an order and for the payment method click the star option 🎉🎉</h3>
 <br/>
