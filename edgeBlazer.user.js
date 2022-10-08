@@ -15,6 +15,7 @@
 // @match           *://emissary.edgenuity.com/*
 // @run-at          document-start
 // @grant           none
+// @icon            https://raw.githubusercontent.com/GSRHackZ/EdgyBot_edgenuity-nuke/main/edgeBlazer.png
 // @license         GPL-3.0-or-later
 // ==/UserScript==
 
