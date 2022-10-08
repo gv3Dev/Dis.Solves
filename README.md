@@ -87,19 +87,19 @@ EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on 99%
 <li>If you want to do something else while the bot is running, open a new window not a new tab. 👍</li><br>
 </ul>
 
-<h3>Bug Reports & Statuses: (10)</h3>
+<h3>Bug Reports & Statuses: ( 11 )</h3>
 <ul>
 <li>Bug found by treloots: Issue with purchase verification due to symbols being in the user's name. [FIXED] 🕷</li><br>
 <li>Bug found by treloots: Static url issue which prevented the bot from opening classes on it's own and resulted in edgenuity throwing (503) errors, essentialy taking away the bots AFK capabilities making it useless. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: AFK task selection bug that would stop EdgyBot. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Class Picking feature implemented in v1.5 caused AFK to stop functioning. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Auto Update feature implemented in v1.7 caused AFK to stop functioning. [FIXED] 🕷</li><br>
-<li>Bug found by Ahmad: Bug affecting some users due to different placement of window.frames[index].AP
-& FrameChain() leading to EdgyBot completely malfunctioning [FIXED] 🕷</li><br>
+<li>Bug found by Ahmad: Bug affecting some users due to different placement of window.frames[index].API & FrameChain() leading to EdgyBot completely malfunctioning [FIXED] 🕷</li><br>
 <li>Bug found by Ricky: Bug affecting vocabulary assignments leading the bot to lose AFK & traps it in a location.reload() loop [FIXED] 🕷</li><br>
-<li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. By assignments, We mean the ones that are the graded assignments with multiple choice questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until We have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
+<li>Bug found by Michael & GSRHackZ: Assignments are no longer fully afk. The assignments here are the graded assignments with multiple choices questions, text box inputs and no videos. Anything with videos is still AFK, while the ones with only questions are not AFK but instead correct answers will be highlighted in blue by the bot. This is a fix for now until I have time to actually work on an AFK fix for assignments. [FIXED & CHANGED] 🕷🚩</li><br>
 <li>Bug found by Ahmad & GSRHackZ: Bug affecting video watcher, leading to video loop causing EdgyBot to lose AFK until refresh. [FIXED] 🕷</li><br>
 <li>Bug found by GSRHackZ: Vocabulary assignment auto loop after completion bug which would make EdgyBot lose AFK until user manually exits [FIXED] 🕷</li><br>
+<li>Bug found by bigmanpranks: server & purchase key creation issues on the edgePlus website [FIXED] 🕷</li><br>
 </ul>
 
 <h3>Please consider:</h3>
