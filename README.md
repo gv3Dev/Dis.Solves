@@ -6,7 +6,7 @@
 <ul>
 <li>Make sure you starred the script on github. ⭐</li><br/>
 <li>Make sure to copy & paste the exact class names as they appear on your edgenuity dashboard. 📝</li><br/>
-<li>Make sure to enter your full name. This info isn't saved & is only used for the creation of a user specific EdgyBot user panel and key. 🔑</li><br/>
+<li>Make sure to enter your full first name. This info isn't saved & is only used for the creation of a user specific EdgyBot user panel and key. 🔑</li><br/>
 </ul>
 <hr/>
 <br/>
