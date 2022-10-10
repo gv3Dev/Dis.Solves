@@ -1,5 +1,7 @@
 # EdgyBot 🤖 - ( Edgen_Nuke ⚛ )
 <br/>
+<h3>To display or hide the EdgyBot Menu:</h3>
+<p>Click the screen to focus the window then click <b>CTRL ALT M</b> on your keyboard. 😊</p>
 <hr/>
 <h3>Your key isn't working (invalid or expired)? Send another order & follow the steps below:</h3>
 <br/>
