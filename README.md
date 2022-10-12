@@ -2,12 +2,13 @@
 <br/>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
 <br>
+<hr/>
 <h3>Important Message ⚠:</h3>
 <h4>Never Click Next Activity Anywhere On The Site While Using EdgyBot.<br><br>It will confuse the bot and lead to it crashing and logging you out 🔴</h4>
-<br>
+<hr/>
 <h3>Having issues with our latest version due to compatiblity issues? </h3>
 <p>Auto install EdgyBot legacy version while we fix bugs on the new one: <a href="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/raw/main/edgyBot-legacy.user.js">EdgyBot-Legacy</a><i> (Only works if tampermonkey is installed and enabled)</i></p>
-<br>
+<hr/>
 <h3>Description:</h3>
 EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities, it unlocks brainly and auto searches each question. The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
 <br>
