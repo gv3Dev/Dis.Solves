@@ -6,7 +6,7 @@
 <h3>Important Message ⚠:</h3>
 <h4>Never Click Next Activity Anywhere On The Site While Using EdgyBot.<br><br>It will confuse the bot and lead to it crashing and logging you out 🔴</h4>
 <hr/>
-<h3>Having issues with our latest version due to compatiblity issues? </h3>
+<h3>Having issues with our latest version due to bugs or you just miss the older version? </h3>
 <p>Auto install EdgyBot legacy version while we fix bugs on the new one: <a href="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/raw/main/edgyBot-legacy.user.js">EdgyBot-Legacy</a><i> (Only works if tampermonkey is installed and enabled)</i></p>
 <hr/>
 <h3>Description:</h3>
