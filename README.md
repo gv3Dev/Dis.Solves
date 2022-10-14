@@ -13,7 +13,7 @@
 EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities, it unlocks brainly and auto searches each question. The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. If the bot does run into an issue, it can be fixed with a simple refresh of the page. This script has only been tested on chrome, so for the time being, should only be used on chrome. It requires an extension from the chrome webstore in order to run on Edgenuity.
 <br>
 <h3>Quick Message:</h3>
-EdgyBot currently has no support for activities with the name "assignment", but will in a later update by using a new function we have been workin on, called "B2A". b2a() will auto search brainly answers (like it currently does for tests and quizzes) and will auto answer the questions as well. ✔
+EdgyBot currently has no support for activities with the name "assignment" (only skips voice intros on those). Tests and quizzes now have an auto answer function using the menu and brainly auto search 🎉✔
 <hr/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily 🎊</h3>
 <h4>The script is free for the time being, but you will still need to request a purchase key. 
