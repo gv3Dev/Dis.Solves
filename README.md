@@ -11,6 +11,7 @@ EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on man
 <a target="_blank" href="https://www.youtube.com/watch?v=sS7vdFOvh0c">Video of quiz automation & custom background</a>
 <br>
 <h3>Quick Message:</h3>
+It might look scary because it's getting questions wrong but that's aliright, those assignments aren't graded. It will guess through all of them and progress you through the courseline 👌<br><br>
 EdgyBot currently has no support for activities with the name "assignment" (only skips voice intros on those). Tests and quizzes now have an auto answer function using the menu and brainly auto search 🎉✔
 <hr/>
 <h3>EdgyBot is back & better than ever. Updates coming in daily 🎊</h3>
@@ -74,8 +75,7 @@ on the site within 15 minutes of requesting a key, please be patient. ) 🔑</h4
 <li>The script comes with a Brainly Lockpick, which removes the brainly paywall and 1 answer per day limit, allowing users to view all brainly answers for free 🔐</li><br>
 <li>It goes back to the course-line and continues doing non test tasks on it's own. 🧠</li><br>
 <li>The bot can be left to run on it's own, but it's recommended that you stay in the same room in case the bot has any issues. 💁‍♂️</li><br>
-<li>While the user is manually taking a test, quiz, cumulative exam, etc.., it will automatically find the answer for the question on brainly, answer it, and move on to the next question if an answer is found. If not it will wait for the user to move on to the next question. (upcoming feature)  🔴🟢</li><br>
-<li>Answers questions correctly 90% of the time. 🎯</li><br>
+<li>While the user is manually taking a test, quiz, cumulative exam, etc.., it will automatically find the answer for the question on brainly, answer it, and move on to the next question if an answer is found. If not it will wait for the user to move on to the next question. 🔴🟢</li><br>
 <li>Make sure to check for updates daily, either here on github or on the site <a href="https://edgenuity-plus.web.app/">EdgePlus➕</a></li><br>
 <li>Sharing purchase keys might lead to technical difficulties on both persons ends. Please refrain from doing so. 🛑</li><br>
 <li>This is still a work in progress, it's good and functional but it may still need some work. If you have any issues please contact me asap. 🙏</li><br>
