@@ -1,5 +1,5 @@
 # EdgyBot 🤖
-![EdgyMenu display](https://raw.githubusercontent.com/GSRHackZ/EdgyBot_edgenuity-nuke/main/edgyMenu.png)
+![EdgyMenu display](https://raw.githubusercontent.com/GSRHackZ/EdgyBot_edgenuity-nuke/main/edgyMenu_.png)
 <br/>
 <br/>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
