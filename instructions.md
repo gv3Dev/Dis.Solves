@@ -5,8 +5,8 @@
 </h3>
 <p align="center">By: GSRHackZ</p>
 <br><br><br>
-
-
+<p align="left">Customer support email: <a href="mailto:sedgenuity@gmail.com">sedgenuity@gmail.com</a></p>
+<p align="left">My instagram: <a href="https://www.instagram.com/gsrhackz/" target="_blank">@gsrhackz</a></p>
 <hr/>
 <br>
 <h3>Disclaimer:</h3><br>
