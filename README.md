@@ -3,6 +3,7 @@
 <br/>
 <br/>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
+<p>This is a work in progress. It gets better with every update and is built on bug reports. Please send us any bugs or issues you have so we can EdgyBot better 😊</p>
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true"><br><br>
