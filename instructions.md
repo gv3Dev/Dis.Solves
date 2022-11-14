@@ -24,7 +24,7 @@
 <h3>1. How To Install Tampermonkey (needed for EdgyBot installation)</h3><br>
 <p>Must be using chrome for this. If you don't have chrome, install it.</p><br>
 <ol>
-  <li>Opan Tampermonkey on the chrome web store using this link: <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en" target="_blank">Tampermonkey</a></li><br>
+  <li>Open Tampermonkey on the chrome web store using this link: <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en" target="_blank">Tampermonkey</a></li><br>
   <li>Click "Add To Chrome"</li><br>
   <li>A page will open up after adding Tampermonkey to chrome. Just close it.</li><br>
   <li>Now move on to "How To Install EdgyBot"</li><br>
