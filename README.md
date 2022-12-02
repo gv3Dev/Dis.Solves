@@ -15,7 +15,7 @@
 <p>This is a work in progress. It gets better with every update and is built on bug reports. Please send us any bugs or issues you have so we can EdgyBot better 😊</p>
 <br>
 <h3>Tool Description:</h3>
-<p>EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities, it unlocks brainly and auto searches. It also has an auto answer function for quizzes and tests.</p>
+<p>EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities (except assignments), it unlocks brainly and auto searches. It also has an auto answer function for quizzes and tests.</p>
 <br/>
 <h3>Disclaimer:</h3><br>
 <b>We are not affiliated with Edgenuity & we do not endorse the use of this tool.</b><br/><br/>
