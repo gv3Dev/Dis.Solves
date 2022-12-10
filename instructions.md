@@ -1,3 +1,4 @@
+<h1>SERVERS ARE DOWN BECAUSE OF TOO MANY ORDERS & USERS (12/9/2022). PLEASE DO NOT SEND PAYMENT OR ORDERS UNTIL FURTHER NOTICE</h1>
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true"><br><br>
