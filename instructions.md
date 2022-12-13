@@ -1,4 +1,4 @@
-<h1>SERVERS ARE DOWN, PLEASE WAIT UNTIL TOMORROW FOR THEM TO BE UP AGAIN. DO NOT SEND ORDERS OR PAYMENT 🔴⚠</h1>
+<h1>SERVERS ARE UP AND RUNNING ✔️</h1>
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true"><br><br>
