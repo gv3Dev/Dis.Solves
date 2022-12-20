@@ -1,5 +1,3 @@
-<h1>SERVERS ARE UP AND RUNNING ✔</h1>
-
 <br/>
 <br/>
 <br>
@@ -12,7 +10,9 @@
 <p align="left">Customer support email: <a href="mailto:sedgenuity@gmail.com">sedgenuity@gmail.com</a></p>
 <p align="left">My instagram: <a href="https://www.instagram.com/gsrhackz/" target="_blank">@gsrhackz</a></p>
 <hr/>
-<br>
+<br><br>
+<img src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgyMenu.png?raw=true"/>
+<br><br><br>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
 <p>This is a work in progress. It gets better with every update and is built on bug reports. Please send us any bugs or issues you have so we can EdgyBot better 😊</p>
 <br>
