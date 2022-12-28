@@ -7,5 +7,12 @@ after grabbing the best answer found on brainly by using votes, stars, and thank
 
 let EDGEPLUS_MSG = `Click the check for update button to update to the latest version of the script.`;
 
-let DISABLED_USERS = ["","",""];
+let DISABLED_USERS = [    
+  
+    {
+        "user_key":"",
+        "reason":"",
+    }
+
+];
 
