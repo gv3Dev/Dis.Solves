@@ -10,8 +10,8 @@ let EDGEPLUS_MSG = `Click the check for update button to update to the latest ve
 let DISABLED_USERS = [    
   
     {
-        "user_key":"",
-        "reason":"",
+        "user_key":"Z2gtbW9uJTIwZGVjJTIwMTklMjAyMDIyJTdjZWRneV9pbmZvJTdjM21vbmRlYzE5MjAyMmNhc2hhcHBhc2R8aW1wX2NjfE5pMDNLaTFsWkc=",
+        "reason":"scamming users",
     }
 
 ];
