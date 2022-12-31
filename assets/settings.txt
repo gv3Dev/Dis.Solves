@@ -1,4 +1,4 @@
-let CURRENT_VERSION_OUT = 2.1971
+let CURRENT_VERSION_OUT = 2.1971;
 
 let SCRIPT_INFO = `Script has better auto answer for quizzes and tests,
 now uses the string similarity library and a bunch of text preprocessing 
