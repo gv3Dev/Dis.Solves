@@ -1,0 +1,13 @@
+{
+  "CURRENT_VERSION_OUT": 2.1972,
+  "SCRIPT_INFO": "Script has better auto answer for quizzes and tests, now uses the string similarity library and a bunch of text preprocessing along with cosine vector calculation to determine the correct answer choice. It also grabs the best answer from brainly using an algorithm which uses the stars, votes, and thanks.",
+  "EDGEPLUS_MSG": "If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏",
+  "DISABLED_USERS": [
+    {
+      "user_key": "",
+      "reason": ""
+    }
+  ],
+  "ACTIVE": true,
+  "RUN_THIS": "console.log('server_accessed')"
+}
