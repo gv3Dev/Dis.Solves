@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EdgyBot - Edgenuity Bot - best obf
+// @name         EdgyBot - Edgenuity Bot
 // @namespace    http://tampermonkey.net/
 // @version      2.1983
 // @description  [ Edgy means experimental :) ] - Partially AFK. Answers many activities provided by Edgenuity such as (Intro, Instructions, Warm-ups), Skips past tests and quizzes on course-line in order to quickly get ahead, Unlocks all brainly answers and removes 1 answer per day limit. You can leave it running, but please stay in the same room in case the bot stops. Any problem is fixed witha  simple refresh of the page.
