@@ -1,3 +1,4 @@
+<h1>Script has been patched by edgenuity. Await a new one coming soon 🤖</h1>
 <br/>
 <br/>
 <br>
