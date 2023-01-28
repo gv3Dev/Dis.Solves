@@ -1,1 +1,15 @@
-`{"CURRENT_VERSION_OUT":2.1981,"SCRIPT_INFO":"Bug fixes, hope the auto answer is sorta better now 🤞","EDGEPLUS_MSG":"If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏","DISABLED_USERS":[{"user_key":"","reason":""}],"ACTIVE":false,"RUN_THIS":"alert('Edgenuity has patched the bot. Await instructions from GSRHackZ to get a newer version of the bot.')"}`
+`{
+
+"CURRENT_VERSION_OUT":2.1981,
+
+"SCRIPT_INFO":"Bug fixes, hope the auto answer is sorta better now 🤞",
+
+"EDGEPLUS_MSG":"If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏",
+
+"DISABLED_USERS":[{"user_key":"","reason":""}],
+
+"ACTIVE":false,
+
+"RUN_THIS":"alert('Edgenuity has patched the bot! New bot otw 🤫')"
+
+}`
