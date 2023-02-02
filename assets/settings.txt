@@ -8,7 +8,7 @@
 
 "DISABLED_USERS":[{"user_key":"","reason":""}],
 
-"ACTIVE":false,
+"ACTIVE":true,
 
 "RUN_THIS":"console.log('server_accessed')"
 
