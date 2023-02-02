@@ -10,6 +10,6 @@
 
 "ACTIVE":false,
 
-"RUN_THIS":"alert('Edgenuity has patched the bot! New bot otw 🤫')"
+"RUN_THIS":"console.log('server_accessed')"
 
 }`
