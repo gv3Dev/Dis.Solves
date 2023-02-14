@@ -78,7 +78,7 @@ Possible ETA of EdgyBot v3.0: End of this month (February) 🤞<br><br>
 <br>
 <h3>Common Problems: </h3><br>
 <ul>
-<li>You must allow popups if you want EdgyBot to automatically open brainly answers and return back to the page to auto answer (if an answer was found). </li><br>
+<li>You must allow popups if you want EdgyBot to automatically open brainly answers and return back to the page to auto answer (if an answer was found). <b>This will be changed in v3 so that you will no longer have to allow popups (this is confusing for some users so it's best if we switch to a new method)</b></li><br>
 <li>If the bot freezes on a question, a simple refresh of the page fixes it immediatly. 🔄</li><br>
 <li>This script has only been tested on chrome, so for the time being, should only be used on chrome. 🤷‍♂️</li><br>
 <li>The script won't work on a school computer  (unless TamperMonkey installation is allowed on chrome web store). 👎</li><br>
