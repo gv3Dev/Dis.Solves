@@ -1,4 +1,10 @@
-<h1>SERVERS ARE UP AND RUNNING ✔</h1>
+<h3>
+EdgyBot has been patched. 🤔<br><br>
+My instagram account has been taken down for copyright, some bs about the Edgenuity logo showing in one of my highlights. 🙄<br><br>
+EdgePlus site is down for obvious reasons (can't be accepting orders and payment for a non-functioning product). 🤨<br><br>
+Possible ETA of EdgyBot v3.0: End of this month (February) 🤞<br><br>
+</h3>
+<br>
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true"><br><br>
