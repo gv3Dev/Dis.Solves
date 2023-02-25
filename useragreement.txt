@@ -1,0 +1,26 @@
+LEGAL DISCLAIMER
+=====
+We are in NO WAY affiliated with NOR work for Edgenuity, neither have we ever claimed to be.
+
+The following message is to discourage use of this tool.
+
+After purchase of this tool you take full responsibility for the outcome (if any). Nobody who works with EdgePlus+ or on EdgyBot can be held responsible for anyone's use of this tool.
+This tool is for demonstrational, educational and research purposes ONLY, any other uses is not permitted.
+Academic integrity is extremely important; use of this tool is academic dishonesty and may get you punished in some form. Academic dishonesty is a serious offense; those affiliated with EdgePlus+ highly discourage it.
+Many things taught in class (online and/or in-person) are beneficial to you and others in the real world; use of this tool will harm that. You'll miss out on potential important information your honest peers have learned.
+Any credit recieved during your course may be invalidated if any person(s) are caught using this tool during their academic career.
+By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.
+
+
+
+END USER LICENSE AGREEMENT
+=====
+By using this tool, you agree to the following:
+1. Any modifications in ANY form (reverse engineering, deobfuscation, delicensing, etc.) by those unauthorized is NOT permitted.
+2. Some info about any person(s) may be collected. This info is privately shared & modified to prevent privacy infringement. This private data is NOT guaranteed to be securely stored; nobody affiliated with EdgePlus+ or who works on this tool is a security researcher/expert and breaches may happen.
+3. All purchases of this tool are for use by you ONLY. You may NOT share login info, tokens, or credentials of some form, nor allow others to use this tool on a device that already has access UNLESS they have purchased this tool themselves under a class you have purchased as well.
+4. There may be mandatory updates to this tool with downgrading NOT being possible. By using this tool, you agree that this is an acceptable security practive.
+5. Access to this tool may be revoked at any given moment. Appeal of this revocation may NOT be permitted.
+6. This list may update at any time, in which you immediately agree to UNLESS use of this tool ceases.
+
+Disobedience of these terms after accepting them can result in punishment in some form, including (but not limited to): revocation of access to this tool. This list is NOT exhaustive and other punishments may be decided.
