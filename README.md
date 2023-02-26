@@ -1,10 +1,3 @@
-<h3>
-EdgyBot has been patched. 🤔<br><br>
-My instagram account has been taken down for copyright, some bs about the Edgenuity logo showing in one of my highlights. 🙄<br><br>
-EdgePlus site is down for obvious reasons (can't be accepting orders and payment for a non-functioning product). 🤨<br><br>
-Possible ETA of EdgyBot v3.0: End of Feburary, hopefully will be done in about a week 🤞<br><br>
-</h3>
-
 <br><br><br><br>
 
 <h3 align="center">
