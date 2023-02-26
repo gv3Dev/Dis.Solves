@@ -17,7 +17,6 @@
 <br>
 <h3>Tool Description:</h3>
 <p>EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities (except assignments), it unlocks brainly and auto searches. It also has an auto answer function for quizzes and tests.</p>
-<br/>
 <br><br>
 <hr/>
 <br>
