@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EdgyBot - Edgenuity Bot - new launch_
+// @name         EdgyBot - Edgenuity Bot
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  [ Edgy means experimental :) ]
