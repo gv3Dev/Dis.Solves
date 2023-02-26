@@ -4,32 +4,27 @@ My instagram account has been taken down for copyright, some bs about the Edgenu
 EdgePlus site is down for obvious reasons (can't be accepting orders and payment for a non-functioning product). 🤨<br><br>
 Possible ETA of EdgyBot v3.0: End of Feburary, hopefully will be done in about a week 🤞<br><br>
 </h3>
-<br>
-<br/>
-<br/>
-<br>
+
+<br><br><br><br>
+
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true"><br><br>
   EdgyBot User Manual
 </h3>
-<p align="center">By: GSRHackZ</p>
+<p align="center">By: GSRHackZ & ITAC85v2</p>
+
 <br><br><br>
 <p align="left">Customer support email: <a href="mailto:sedgenuity@gmail.com">sedgenuity@gmail.com</a></p>
 <p align="left">My instagram: <a href="https://www.instagram.com/gsrhackz/" target="_blank">@gsrhackz</a></p>
-<hr/>
-<br><br>
-<img src="https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgyMenu.png?raw=true"/>
+<hr/><br><br>
+
+<img src="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/edgyMenu.png"/>
 <br><br><br>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
-<p>This is a work in progress. It gets better with every update and is built on bug reports. Please send us any bugs or issues you have so we can EdgyBot better 😊</p>
 <br>
 <h3>Tool Description:</h3>
 <p>EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities (except assignments), it unlocks brainly and auto searches. It also has an auto answer function for quizzes and tests.</p>
 <br/>
-<h3>Disclaimer:</h3><br>
-<b>We are not affiliated with Edgenuity & we do not endorse the use of this tool.</b><br/><br/>
-<b>The message below is to discourage you from installing this script, or at the very least warn you of the consequences of using this tool. ℹ</b><br><br>
-<b>If you purchase this tool you take full responsibility for the outcome (if any). You can not hold me liable for your and other peoples actions. This tool is for demonstrational and research purposes only, just a fun side project of mine that makes me cash on the side. An experimental/prototype business of some sort. Academic Integrity is very important & it shows a lot about who you are as a person. Use of this tool can lead to disciplinary action due to academic dishonesty. Please do not purchase or use this tool. Some things taught in online classes are beneficial to you in the real world. You would miss out on things your other (honest) peers are learning. Also, any school credits recieved via the use of this tool may be <b>invalidated</b> if the user is caught during the use of this tool or later on in his/her academic career. Academic dishonesty is a very serious offense (especially in levels of higher education), and we at EdgePlus+ discourage it. By purchasing & using this tool, <b>you acknowledge</b> the consequences and <b>negative</b> effects of using this tool. You have been warned ‼ ⚠</b>
 <br><br>
 <hr/>
 <br>
@@ -91,3 +86,21 @@ Possible ETA of EdgyBot v3.0: End of Feburary, hopefully will be done in about a
 <li>Youtube:  <a style="color:red;" target="_Blank" href="https://www.youtube.com/channel/UColPwWTSv6884dHe5ipYL9g">Subscribe</a></li>
 <li>Instagram:  <a style="color:#dc2ef0;" target="_Blank" href="https://www.instagram.com/gsrhackz/">Follow</a></li>
 </ul>
+<br><br>
+
+
+<h3>Legal disclaimer:</h3>
+<br>
+<b>We are in no way affiliated with nor work with Edgenuity, neither have we ever claimed to be.</b>
+<br><br>
+<b>The following message below is to discourage use of this tool</b>
+<br><br>
+<b>After purchase of this tool you take full responsibility for the outcome (if any). <i>Nobody who works with EdgePlus+ or on EdgyBot can be held responsible for anyone's use of this tool</i><br>
+This tool is for demonstrational, educational and research purposes ONLY.<br>
+Academic integrity is extremely important; use of this tool is academic dishonesty and may get you punished in some form. Academic dishonesty is a serious offense; those affiliated with EdgePlus+ highly discourage it.<br>
+Many things taught in class (online and/or in-person) are beneficial to you and others in the real world; use of this tool will harm that. You'll miss out on potential important information your honest peers have learned.<br>
+Any credit recieved during your course may be invalidated if any person(s) are caught using this tool during their academic career.<br>
+By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.<br>
+</b>
+
+More info can be found at:<br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/newdocs/useragreement.txt" target="_self">User Agreement</a>
