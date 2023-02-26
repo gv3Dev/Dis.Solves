@@ -9,9 +9,7 @@
 <br><br><br>
 <p align="left">Customer support email: <a href="mailto:sedgenuity@gmail.com">sedgenuity@gmail.com</a></p>
 <p align="left">My instagram: <a href="https://www.instagram.com/gsrhackz/" target="_blank">@gsrhackz</a></p>
-<hr/><br><br>
-
-<img src="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/edgyMenu.png"/>
+<hr/><br>
 <br><br><br>
 <h3>Please read everything below before installation & use of EdgyBot 🔻</h3>
 <br>
