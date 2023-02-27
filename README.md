@@ -92,4 +92,4 @@ Any credit recieved during your course may be invalidated if any person(s) are c
 By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.<br>
 </b>
 
-More info can be found at:<br><br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/newdocs/useragreement.txt" target="_self">User Agreement</a>
+More info can be found at:<br><br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.txt" target="_self">User Agreement</a>
