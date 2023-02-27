@@ -1,6 +1,6 @@
 `{
 
-"CURRENT_VERSION_OUT":3.01,
+"CURRENT_VERSION_OUT":3.02,
 
 "SCRIPT_INFO":" Welcome to a new era of Edgenuity Exploiting + Bug fixes - important",
 
