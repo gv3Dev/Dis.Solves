@@ -1,8 +1,8 @@
 `{
 
-"CURRENT_VERSION_OUT":3.0,
+"CURRENT_VERSION_OUT":3.01,
 
-"SCRIPT_INFO":" Welcome to a new era of Edgenuity Exploiting 😈",
+"SCRIPT_INFO":" Welcome to a new era of Edgenuity Exploiting 😈\nBug fixes - important",
 
 "EDGEPLUS_MSG":"If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏",
 
