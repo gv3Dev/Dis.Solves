@@ -63,7 +63,6 @@
 <br>
 <h3>Common Problems:</h3><br>
 <ul>
-<li>You MUST allow popups if you want EdgyBot to automatically answer questions off of Brainly. <b>This WILL be changed in v3! (This may be confusing for some users, so it is best if we switch to a new method.)</b></li><br>
 <li>If the bot freezes on a question, simply refresh the page. 🔄</li><br>
 <li>dgyBot has only yet been tested on Chrome, we strongly suggest using EdgyBot exclusively on Chrome only. 🤷‍♂️</li><br>
 <li>EdgyBot may not work on a school-owned device! (Unless TamperMonkey installation is permitted by policies set on your device or by your administrator). 👎</li><br>
