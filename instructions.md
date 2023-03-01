@@ -29,7 +29,7 @@
 <p>Perform the following steps on <a target="_blank" href="https://edgybot-gsrhackz.web.app/">EdgePlus</a>.</p><br>
 <ol>
   <li>Enter your initials as they appear on Edgenuity. (Example: If your name is John Smith, enter JS.)</li><br>
-  <li>Enter the number of classes you need the bot to work on. (Note: EdgyBot does not work on language classes!)</li><br>
+  <li>Enter the number of classes you need the bot to work on.</li><br>
   <li>Enter a phone number, email or some other form of contact. (Note: You can also enter a social media link.)</li><br>
   <li>Enter a payment method. (Note: EdgyBot will only start working after payment is verified.)</li><br>
   <li>Review all info you entered, along with the price. Once assured, click "Continue". Refresh the page if you need to edit anything.</li><br>
