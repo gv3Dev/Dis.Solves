@@ -14,7 +14,7 @@
 <h3>Please read all of the following below before using or installing EdgyBot!🔻</h3>
 <br>
 <h3>Tool Description:</h3>
-<p>EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities (except assignments), it unlocks brainly and auto searches. It also has an auto answer function for quizzes and tests.</p>
+<p>EdgyBot is a mostly-AFK Edgenuity Bot brought to you by EdgePlus+. It is designed to complete most activities offered by Edgenuity. Its main purpose is to help progress users through their course timeline while they focus on non-Edgenuity related tasks. The bot can complete all ungraded activities on its own, and for graded activities (excluding assignments), it can unlock Brainly and perform automatic searches. Additionally, it features an auto-answer function for quizzes and tests.</p>
 <br><br>
 <hr/>
 <br>
@@ -28,7 +28,7 @@
 <ol>
   <li>Follow <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en" target="_blank">this link</a> or open Tampermonkey on the <a href="https://chrome.google.com/webstore/">Chrome Web Store</a></li><br>
   <li>Click "Add To Chrome"</li><br>
-  <li>A page will open up after adding Tampermonkey to Chrome. Just close it.</li><br>
+  <li>A separate page will open up after adding Tampermonkey to Chrome. Just ignore it and close it.</li><br>
   <li>Move on to "How To Install EdgyBot"</li><br>
 </ol>
 <br>
@@ -63,8 +63,9 @@
 <br>
 <h3>Common Problems:</h3><br>
 <ul>
+<li>You MUST allow popups if you want EdgyBot to automatically answer questions off of Brainly. <b>This WILL be changed in v3! (This may be confusing for some users, so it is best if we switch to a new method.)</b></li><br>
 <li>If the bot freezes on a question, simply refresh the page. 🔄</li><br>
-<li>dgyBot has only yet been tested on Chrome, we strongly suggest using EdgyBot exclusively on Chrome only. 🤷‍♂️</li><br>
+<li>EdgyBot has only been tested on Chrome. We strongly suggest using EdgyBot exclusively on Chrome only. 🤷‍♂️</li><br>
 <li>EdgyBot may not work on a school-owned device! (Unless TamperMonkey installation is permitted by policies set on your device or by your administrator). 👎</li><br>
 </ul>
 <br>
@@ -74,7 +75,7 @@
 <ul>
 <li>YouTube:  <a style="color:red;" target="_Blank" href="https://www.youtube.com/channel/UColPwWTSv6884dHe5ipYL9g">Subscribe</a></li>
 <li>Instagram:  <a style="color:#dc2ef0;" target="_Blank" href="https://www.instagram.com/gsrhackz/">Follow</a></li>
-</ul>
+</ul>   
 <br><br>
 
 
@@ -88,4 +89,4 @@ Many things taught in class (online and/or in-person) are beneficial to you and 
 Any credit recieved during your course may be invalidated if any person(s) are caught using this tool during their academic career.
 By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.</b>
 
-More info can be found at:<br><br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.txt" target="_self">User Agreement</a>
+<br><br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.txt" target="_self">Learn more (User Agreement)</a>
