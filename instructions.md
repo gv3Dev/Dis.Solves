@@ -44,7 +44,7 @@
 <h3>Common Problems:</h3><br>
 <ul>
 <li>If the bot freezes on a question, simply refresh the page. 🔄</li><br>
-<li>dgyBot has only yet been tested on Chrome, we strongly suggest using EdgyBot exclusively on Chrome only. 🤷‍♂️</li><br>
+<li>EdgyBot has only yet been tested on Chrome, we strongly suggest using EdgyBot exclusively on Chrome only. 🤷‍♂️</li><br>
 <li>EdgyBot may not work on a school-owned device! (Unless TamperMonkey installation is permitted by policies set on your device or by your administrator). 👎</li><br>
 </ul>
 <br>
