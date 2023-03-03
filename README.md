@@ -18,7 +18,7 @@
 <br><br>
 <hr/>
 <br>
-<h3>Installing EdgyBot</h3><ul>
+<h3>Installing EdgyBot</h3>
 A tutorial for installing EdgyBot can be found <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/How-to-install-EdgyBot">here.</a>
 
 <h3>Please consider:</h3>
