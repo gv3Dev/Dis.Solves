@@ -78,14 +78,5 @@
 <br><br>
 
 
-<h3>Legal Disclaimer</h3>
-We are in NO WAY affiliated with NOR work for Edgenuity, neither have we ever claimed to be.<br><br>
-The following message is intended to discourage use of this tool.<br><br>
-After purchase of this tool, you take full responsibility for any potential outcome(s). Nobody who works with EdgePlus+ or on EdgyBot can be held responsible for anyone's use of this tool.<br>
-This tool is for demonstrational, educational and research purposes ONLY, any other uses are not permitted.
-Academic integrity is extremely important; use of this tool is academic dishonesty and may get you punished in some form. Academic dishonesty is a serious offense; those affiliated with EdgePlus+ highly discourage it.<br>
-Many things taught in class (online and/or in-person) are beneficial to you and others in the real world; use of this tool will harm that. You WILL miss out on potential important information your honest peers have learned.<br>
-Any credit recieved during your course may be invalidated if any person(s) are caught using this tool during their academic career.
-By purchasing and using this tool, you acknowledge the consequences and negative effects of using this tool.</b>
-
-<br><br><a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.txt" target="_self">Learn more (User Agreement)</a>
+<h3>User Agreement</h3>
+<a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.txt" target="_self">Read the user agreement here</a>
