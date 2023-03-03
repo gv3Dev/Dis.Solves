@@ -9,6 +9,7 @@
 <h2>END USER LICENSE AGREEMENT</h2><br>
 <p>By using this tool, you agree to the following:</p><br>
 <ol>
+        <li>A strict "no refunds" policy is in place, meaning you CANNOT refund this tool after purchase unless we find it necessary.</li><br>
 	<li>Any modifications in ANY form (reverse engineering, deobfuscation, delicensing, etc.) by those unauthorized is NOT permitted.</li><br>
 	<li>Some info about any person(s) may be collected. This info is privately shared and modified to prevent privacy infringement. This private data is NOT guaranteed to be stored securely; nobody affiliated with EdgePlus+ or who works on this tool is a security researcher/expert and bbreaches may happen.</li><br>
 	<li>All purchases of this tool are for use by you ONLY. You may NOT share login info, tokens, or credentials of some form, nor allow others to use this tool on a device that already has access UNLESS they have purchased this tool themselves under a class you have purchased as well.</li><br>
