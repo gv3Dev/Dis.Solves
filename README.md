@@ -4,7 +4,6 @@
 </h3>
 <p align="center">By: GSRHackZ & ITAC85v2</p>
 <hr>
-<p align="left">Customer support email: <a href="mailto:sedgenuity@gmail.com">sedgenuity@gmail.com</a></p>
 <p align="left">My instagram: <a href="https://www.instagram.com/gsrhackz/" target="_blank">@gsrhackz</a></p>
 <hr>
 <h3>Please read all of the following below before using or installing EdgyBot!🔻</h3>
