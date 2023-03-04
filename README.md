@@ -21,4 +21,4 @@ Complete instructions for installing EdgyBot can be found <a href="https://githu
 </ul>
 <hr>
 <h3>User Agreement</h3>
-<a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.html" target="_self">Read the user agreement here</a>
+<a href="https://raw.githubusercontent.com/GSRHackZ/EdgyBot_Edgenuity_Bot/main/useragreement.md" target="_self">Read the user agreement here</a>
