@@ -1,0 +1,18 @@
+{
+
+	"CURRENT_VERSION_OUT": 3.19,
+
+	"SCRIPT_INFO": "Welcome to a new era of Edgenuity Exploiting + bug fixes and some other stuff.",
+
+	"EDGEPLUS_MSG": "If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏",
+
+	"DISABLED_USERS": [{
+		"user_key": "MC0xOSotZWRneUJvdF9tYXN0ZXJfTWluZDItKjEwJTdDZWRneV9saXN0X2NsYXNzJTdDaw==",
+		"reason": "Ordered 10 classes but didn't pay for them. 🤨"
+	}],
+
+	"ACTIVE": true,
+
+	"RUN_THIS": "console.log('server_accessed')"
+
+}
