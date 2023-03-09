@@ -1,5 +1,4 @@
 {
-
 	"CURRENT_VERSION_OUT": 3.21,
 
 	"SCRIPT_INFO": "Welcome to a new era of Edgenuity Exploiting + bug fixes and some other stuff.",
@@ -8,11 +7,12 @@
 
 	"DISABLED_USERS": [{
 		"user_key": "MC0xOSotZWRneUJvdF9tYXN0ZXJfTWluZDItKjEwJTdDZWRneV9saXN0X2NsYXNzJTdDaw==",
-		"reason": "Ordered 10 classes but didn't pay for them. 🤨"
+		"reason": ""
 	}],
 
 	"ACTIVE": true,
 
-	"RUN_THIS": "console.log('server_accessed')"
-
+	"RUN_THIS": "console.log('server_accessed')",
+	
+	"CLASS_PRICE": 10
 }
