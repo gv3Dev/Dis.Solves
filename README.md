@@ -15,6 +15,7 @@ Complete instructions for installing EdgyBot can be found <a href="https://githu
 <br><br>
 <h3>Frequently Asked Questions:</h3>
 A list of frequently asked questions ( read this before creating an issue ): <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/wiki/Q&A">FAQ</a>
+<br><br>
 <h3>User Agreement & Disclaimer</h3>
 Read the user agreement <a href="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/useragreement.md" target="_self">here.</a>
 <br><br>
