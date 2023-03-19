@@ -1,7 +1,7 @@
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/edgePlus2.png?raw=true"><br><br>
-  EdgyBot v3.2.1
+  EdgyBot v3.2.2
 </h3>
 <p align="center">By: <a href="https://github.com/GSRHackZ" target="_self">GSRHackZ</a> & <a href="https://github.com/ITAC85v2" target="_self">ITAC85v2</a></p>
 <br><br><br>
