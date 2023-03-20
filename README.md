@@ -1,3 +1,5 @@
+<h3>Currently fixing bugs 😵‍💫</h3>
+
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/edgePlus2.png?raw=true"><br><br>
