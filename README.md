@@ -1,4 +1,4 @@
-<h3>Currently fixing bugs 😵‍💫</h3>
+<h3>Currently working on activity skipper & test automation 😵‍💫</h3>
 
 <br>
 <h3 align="center">
