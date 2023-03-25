@@ -1,12 +1,11 @@
-
-<h3>Currently working on full test & quiz automation 😵‍💫</h3>
-<br>
 <br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/edgePlus2.png?raw=true"><br><br>
   EdgyBot v3.2.8
 </h3>
 <p align="center">By: <a href="https://github.com/GSRHackZ" target="_self">GSRHackZ</a> & <a href="https://github.com/ITAC85v2" target="_self">ITAC85v2</a></p>
+<br>
+<p align="center"><b>Update Status: </b>currently working on full test & quiz automation 😵‍💫</p>
 <br><br><br>
 <h3>Tool Description:</h3>
 <p><b>Important Note:</b> EdgyBot is made only for <b>Edgenuity.com</b> & doesn't work on any other learning site.</p>
