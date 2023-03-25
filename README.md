@@ -1,5 +1,5 @@
 
-<h3>Currently working on activity skipper & test automation 😵‍💫</h3>
+<h3>Currently working on full test & quiz automation 😵‍💫</h3>
 
 <br>
 <h3 align="center">
