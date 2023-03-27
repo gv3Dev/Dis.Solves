@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EdgyBot - Edgenuity Bot
 // @namespace    http://tampermonkey.net/
-// @version      3.290
+// @version      3.29.0
 // @description  [ Edgy means experimental :) ]
 // @author       EdgePlus / GSRHackZ
 // @match        *://student.edgenuity.com/*
