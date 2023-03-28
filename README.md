@@ -14,7 +14,7 @@
 <li>Activities with the name <b>"Assignment"</b> are not supported by EdgyBot 👎</li><br>
 <li>Give at least 2 hours to get verified before making an issue. (Verifying orders is a manual job) ⏳</li><br>
 <li>EdgyBot has only been tested on Chrome, so for now, it should only be used with Chrome. 🤷‍♂️</li><br>
-<li>EdgyBot may not work on a school-owned device! (Unless your school/administrator allows installation of Tampermonkey). 💻</li><br>
+<li>EdgyBot may not work on a school-owned device, unless the installation of Tampermonkey (the extension) is allowed. 💻</li><br>
 <li>Please read the description along with installation steps & FAQ down below 👇</li><br>
 </ul>
 <h3>Tool Description:</h3>
