@@ -4,7 +4,7 @@
   EdgyBot v3.2.9
 </h3>
 <p align="center">By: <a href="https://github.com/GSRHackZ" target="_self">GSRHackZ</a> & <a href="https://github.com/ITAC85v2" target="_self">ITAC85v2</a></p>
-<br>
+<br><br><br>
 <p align="center"><b>Update Status: </b>currently working on full test & quiz automation 😵‍💫</p>
 <br><br><br>
 <h3>Important Notes:</h3><br>
