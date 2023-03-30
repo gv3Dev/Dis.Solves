@@ -1,4 +1,5 @@
-<br>
+<h2>Servers are currently down until tomorrow (maintanence) ⚙</h2>
+<br><br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/edgePlus2.png?raw=true"><br><br>
   EdgyBot v3.3.1
