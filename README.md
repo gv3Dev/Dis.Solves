@@ -12,7 +12,7 @@
 <ul>
 <li>Issues due to <b>User Error</b> such as picking the <b>wrong classes</b> will <i>NOT</i> be dealt with / refunded 🔴</li><br>
 <li>EdgyBot is made only for <b>Edgenuity.com</b> & doesn't work on any other learning site. 🙅‍♂️</li><br>
-<li>EdgyBot <b>does not skip videos.</b> It watches them for you and does the ungraded work while you are AFK</li><br>
+<li>EdgyBot <b>does not skip videos.</b> It watches them for you and does the ungraded work while you are AFK. 🎥</li><br>
 <li>Activities with the name <b>"Assignment"</b> are not supported by EdgyBot 👎</li><br>
 <li>Give at least 2 hours to get verified before making an issue. (Verifying orders is a manual job) ⏳</li><br>
 <li>EdgyBot has only been tested on Chrome, so for now, it should only be used with Chrome. 🤷‍♂️</li><br>
