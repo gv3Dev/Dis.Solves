@@ -1,7 +1,7 @@
 <br><br>
 <h3 align="center">
   <img style="width:150px;margin:0 auto;" src="https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot/blob/main/edgePlus2.png?raw=true"><br><br>
-  EdgyBot v3.3.9<br><br>
+  EdgyBot v3.4.2<br><br>
 </h3>
 <p align="center">By: <a href="https://github.com/GSRHackZ" target="_self">GSRHackZ</a> & <a href="https://github.com/ITAC85v2" target="_self">ITAC85v2</a></p><br>
 <p align="center">EdgyBot User Feedback: <a href="https://www.instagram.com/stories/highlights/18173927047266546/"> Vouches & Reviews 🤩</a></p>
