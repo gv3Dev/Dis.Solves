@@ -12,6 +12,7 @@
 // @match        *://brainly.ro/*
 // @match        *://brainly.pl/*
 // @match        *://brainly.ph/*
+// @match        *://weegy.com/*
 // @match        https://quizlet.com/*
 // @match        http*://you.com/*
 // @match        https://yougpt.beliefs.repl.co/*
@@ -20,8 +21,10 @@
 // @match        *://emissary.edgenuity.com/*
 // @match        *://www.bing.com/*
 // @match        *://www.google.com/*
+// @match        *://media.edgenuity.com/media/*
 // @match        https://*.powerspeak.edgenuity.com/*
 // @match        *://github.com/*
+// @match        *://gpt.itac85v2.repl.co/*
 // @require      http://code.jquery.com/jquery-latest.js
 // @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
 // @require      https://unpkg.com/string-similarity@4.0.4/umd/string-similarity.min.js
