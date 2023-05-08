@@ -25,7 +25,7 @@
 // @match        https://*.powerspeak.edgenuity.com/*
 // @match        *://github.com/*
 // @match        *://gpt.itac85v2.repl.co/*
-// @require      http://code.jquery.com/jquery-latest.js
+// @require      https://code.jquery.com/jquery-3.6.4.js
 // @require      https://code.jquery.com/ui/1.12.1/jquery-ui.js
 // @icon         https://github.com/GSRHackZ/EdgyBot_edgenuity-nuke/blob/main/edgePlus2.png?raw=true
 // @grant        GM_setValue
